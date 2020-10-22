@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="user_entry">User Entry</string>
+    <string name="name">name</string>
+    <string name="save">save in database</string>
+    <string name="nametxt">Name</string>
+    <string name="emailtxt">Email ID</string>
+    <string name="passtxt">Password</string>
+    <string name="rollnum">Roll Number</string>
+</resources>
